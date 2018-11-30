@@ -1,0 +1,12 @@
+.circle{
+    border: 5px solid rebeccapurple;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.times{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 5rem
+}
